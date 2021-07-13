@@ -2,7 +2,7 @@
 
 ## $HOME - Where I live:
 
-I was born, and I live, in the city of Marabá, in the state od Pará, in Brazil.
+I was born and I live in the city of Marabá in the state of Pará, in Brazil.
 
 ## Tecnologies I use:
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
