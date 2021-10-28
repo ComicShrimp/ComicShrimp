@@ -60,7 +60,7 @@ Always inspired to learn more
 
 </td><td valign="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comicshrimp&layout=compact&langs_count=4&theme=nightowl&hide_border=true&border_radius=0" align="center" style="width: 100%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comicshrimp&count_private=true&layout=compact&langs_count=4&theme=nightowl&hide_border=true&border_radius=0" align="center" style="width: 100%" />  
 
 </td></tr></table>  
 </div>
