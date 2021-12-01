@@ -47,7 +47,8 @@ Always inspired to learn more
 <div align="center">   
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/vagrant-icon.svg" alt="Vagrant" height="35" />  
 <img style="margin: 10px" src="https://apachebooster.com/kb/wp-content/uploads/2017/11/Ansible-logo.png" alt="Ansible" height="35" />  
-  <img style="margin: 10px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" height="35" />  
+<img style="margin: 10px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" height="35" />  
+<img style="margin: 10px" src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" height="35" />  
 </div>  
   
 
