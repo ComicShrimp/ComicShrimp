@@ -24,8 +24,9 @@ Currently graduating in Computer Engineering at [Unifesspa](https://www.unifessp
 
 Full Stack developer with more focus on Backend development and DevOps 💻
 
-Always inspired to learn more 
-📝
+Always inspired to learn more 📝  
+  
+ Currently working at [Thomson Reuters Brasil](https://www.linkedin.com/company/thomson-reuters-brasil/)
 
 <br/>  
 
