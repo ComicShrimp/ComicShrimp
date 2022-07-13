@@ -42,6 +42,7 @@ Always inspired to learn more 📝
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />  
 <img style="margin: 10px" src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash" height="35" />   
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/terraform-icon.svg" alt="Terraform" height="35" /> 
+<img style="margin: 10px" src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" height="35" />  
 </div>  
 
 ## Learning 
@@ -49,7 +50,6 @@ Always inspired to learn more 📝
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/vagrant-icon.svg" alt="Vagrant" height="35" />  
 <img style="margin: 10px" src="https://apachebooster.com/kb/wp-content/uploads/2017/11/Ansible-logo.png" alt="Ansible" height="35" />  
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" height="35" />  
-<img style="margin: 10px" src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" height="35" />  
 </div>  
   
 
