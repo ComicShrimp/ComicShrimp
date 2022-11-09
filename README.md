@@ -20,13 +20,13 @@
 
 I was born and I live in the city of Marabá in the state of Pará, in Brazil 🌎
 
-Currently graduating in Computer Engineering at [Unifesspa](https://www.unifesspa.edu.br/) 🎓
+Graduated in Computer Engineering at [Unifesspa](https://www.unifesspa.edu.br/) 🎓
 
 Full Stack developer with more focus on Backend development and DevOps 💻
 
 Always inspired to learn more 📝  
   
- Currently working at [Thomson Reuters Brasil](https://www.linkedin.com/company/thomson-reuters-brasil/)
+Currently working at [Thomson Reuters Brasil](https://www.linkedin.com/company/thomson-reuters-brasil/)
 
 <br/>  
 
@@ -36,19 +36,16 @@ Always inspired to learn more 📝
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="35" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="35" />  
-<img style="margin: 10px" src="https://nuxtjs.org/design-kit/colored-logo.svg" alt="Nuxt JS" height="35" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="35" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />  
 <img style="margin: 10px" src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" alt="Bash" height="35" />   
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/terraform-icon.svg" alt="Terraform" height="35" /> 
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" height="35" />  
+<img style="margin: 10px" src="https://apachebooster.com/kb/wp-content/uploads/2017/11/Ansible-logo.png" alt="Ansible" height="35" />  
 </div>  
 
 ## Learning 
 <div align="center">   
-<img style="margin: 10px" src="https://cdn.svgporn.com/logos/vagrant-icon.svg" alt="Vagrant" height="35" />  
-<img style="margin: 10px" src="https://apachebooster.com/kb/wp-content/uploads/2017/11/Ansible-logo.png" alt="Ansible" height="35" />  
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" height="35" />  
 </div>  
   
