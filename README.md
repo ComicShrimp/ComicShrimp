@@ -26,7 +26,7 @@ Full Stack developer with more focus on Backend development and DevOps 💻
 
 Always inspired to learn more 📝  
   
-Currently working at [Thomson Reuters Brasil](https://www.linkedin.com/company/thomson-reuters-brasil/)
+Currently working at [Stoodi](https://github.com/stoodibr)
 
 <br/>  
 
