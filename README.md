@@ -39,27 +39,10 @@ Currently working at [Stoodi](https://github.com/stoodibr)
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/terraform-icon.svg" alt="Terraform" height="35" /> 
 <img style="margin: 10px" src="https://cdn.svgporn.com/logos/flutter.svg" alt="Flutter" height="35" />  
 <img style="margin: 10px" src="https://apachebooster.com/kb/wp-content/uploads/2017/11/Ansible-logo.png" alt="Ansible" height="35" />  
-</div>  
-
-## Learning 
-<div align="center">   
-<img style="margin: 10px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" height="35" />  
-</div>  
-  
-
-## Stats
-
-<div align="center">
-<table><tr><td valign="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=comicshrimp&count_private=true&show_icons=true&theme=nightowl&hide_border=true&border_radius=0" align="center" style="height: 100%" /> 
-
-</td><td valign="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comicshrimp&count_private=true&layout=compact&langs_count=4&theme=nightowl&hide_border=true&border_radius=0" align="center" style="width: 100%" />  
-
-</td></tr></table>  
+<img style="margin: 10px" src="https://cdn.svgporn.com/logos/aws.svg" alt="AWS" height="35" /> 
 </div>
+
+<br />
 
 <samp>"We are what we repeatedly do. Excellence, therefore, is not an act, but a habit" - Aristotle</samp>
 
